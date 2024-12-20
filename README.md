@@ -23,7 +23,7 @@ python Train.py --experiment_indxe '<SAVE_PATH>'
 # Testing
 Pre-trained model can be download from the [[url]](https://drive.google.com/file/d/13bKvOJVaZRL9I-wy8Dv2skjsnF3CI9Fn/view?usp=sharing)
 
-Place the Pretrain model in the ./save_model folder
+Place the Pre-trained model in the ./save_model folder
 ```
 python Inference.py --experiment_indxe '<SAVE_PATH>'
 ```
